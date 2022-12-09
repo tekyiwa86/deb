@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap:http://debates.38degrees.org.uk/sitemap.xml
