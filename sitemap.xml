@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://debates.38degrees.org.uk/</loc>
+    <lastmod>2022-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+      <image:image>
+        <image:loc>http://debates.38degrees.org.uk/images/sbobet.png</image:loc>
+        <image:title>Sbobet</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>http://debates.38degrees.org.uk/images/sbobet.jpg</image:loc>
+        <image:title>Sbobet</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://debates.38degrees.org.uk/agen-piala-dunia/</loc>
+    <lastmod>2022-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>http://debates.38degrees.org.uk/images/sbobet.png</image:loc>
+        <image:title>Agen Piala Dunia</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>http://debates.38degrees.org.uk/images/sbobet.jpg</image:loc>
+        <image:title>Agen Piala Dunia</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>http://debates.38degrees.org.uk/pkv-games/</loc>
+    <lastmod>2022-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+      <image:image>
+        <image:loc>http://debates.38degrees.org.uk/images/pkv-games.png</image:loc>
+        <image:title>Pkv games</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>http://debates.38degrees.org.uk/images/pkv-games.jpg</image:loc>
+        <image:title>Pkv games</image:title>
+      </image:image>
+  </url>
+</urlset>
